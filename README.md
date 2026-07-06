@@ -101,6 +101,4 @@ Through this assignment, I learned:
 
 ---
 
-## Author
 
-**Shreya Kambar**
